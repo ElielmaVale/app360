@@ -1,0 +1,49 @@
+TAP
+objetivo smart
+marcos
+premissas
+restrições
+plano de risco
+
+ESCOPO
+o que será desenvolvido
+gerenciamneto do escopo:
+-entrada
+-técnicas
+-saídas
+descrever
+definir o que será feito
+
+escopo do projeto:
+-pesquisa de mercado
+-estudo do marketing
+-desenvolvimnto
+-teste
+
+escopo do produto:
+padrões de usabilidades
+geolocalização
+tendência de design
+
+restrição:
+-software
+-pessoas
+-orçamento
+-direito autoral de imagem
+
+entrega:
+-protótipo(pesquisa:pesquisar modelos, ferramentas: pesquisar ferramentas e treinar equipes, desenvolvimento: criar o protótipo, design)
+-manual do sistema
+-estudo de viabilidade
+-programa
+-cronograma
+
+linhas de base:
+-escopo: escopo, eap, dicionário
+-tempo: cronograma
+-custo:orçamento
+-qualidade: padrão
+
+eap ou wbs:
+
+
