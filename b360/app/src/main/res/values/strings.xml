@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">b360</string>
+    <string name="txt_home">Belém 360°</string>
+    <string name="txt_listalocais">Locais</string>
+    <string name="txt_estacaodocas">Estação das Docas.</string>
+</resources>
